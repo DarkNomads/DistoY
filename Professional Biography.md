@@ -19,9 +19,9 @@ Specifically, I have:
 * Collaborated with various team members on a daily basis across multiple projects.
 
 ### Technical Skills
-**Programming** - Ruby (w/Rails), C, C++, Assembly (x86), FORTRAN, Python \
-**Web Development** - Typescript, HTML, SCSS \
-**Database Programming** - SQL, Redis (w/Sidekiq)
+* **Programming** - Ruby (w/Rails), C, C++, Assembly (x86), FORTRAN, Python \
+* **Web Development** - Typescript, HTML, SCSS \
+* **Database Programming** - SQL, Redis (w/Sidekiq)
 
 ## Project Sought
 * The project I will be completing during my capstone involves creating a hand-held, paperless cave surveying device.
