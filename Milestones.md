@@ -36,19 +36,19 @@
 <b>Deliverable</b>: 
 </ul>
 
-6. Functionality Testing
+7. Functionality Testing
 <ul>
 <b>Description</b>: 
 <b>Deliverable</b>: 
 </ul>
 
-7. Environmental Testing
+8. Environmental Testing
 <ul>
 <b>Description</b>: 
 <b>Deliverable</b>: 
 </ul>
 
-8. Final Physical Device Design
+9. Final Physical Device Design
 <ul>
 <b>Description</b>: 
 <b>Deliverable</b>: 
