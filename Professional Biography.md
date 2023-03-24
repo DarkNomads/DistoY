@@ -20,7 +20,7 @@ Specifically, I have:
 
 ### Technical Skills
 * **Programming** - Ruby (w/Rails), C, C++, Assembly (x86), FORTRAN, Python \
-* **Web Development** - Typescript, HTML, SCSS \
+* **Web Development** - Typescript, HTML, SCSS
 * **Database Programming** - SQL, Redis (w/Sidekiq)
 
 ## Project Sought
