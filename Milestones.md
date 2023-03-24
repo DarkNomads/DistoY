@@ -72,47 +72,47 @@
   </tr>
   <tr>
     <td>1. Sensor/Accessory Selection</td>
-    <td>03/10/2022</td>
-    <td>10/10/2022</td>
+    <td>2022/10/03</td>
+    <td>2022/10/10</td>
   </tr>
   <tr>
     <td>2. Physical Device Prototyping</td>
-    <td>10/10/2022</td>
-    <td>24/10/2022</td>
+    <td>2022/10/10</td>
+    <td>2022/10/24</td>
   </tr>
   <tr>
     <td>3. Sensor API Implementation</td>
-    <td>dd/mm/yyyy</td>
-    <td>dd/mm/yyyy</td>
+    <td>yyyy/mm/dd</td>
+    <td>yyyy/mm/dd</td>
   </tr>
   <tr>
     <td>4. Measurement/Calibration Implementation</td>
-    <td>dd/mm/yyyy</td>
-    <td>dd/mm/yyyy</td>
+    <td>yyyy/mm/dd</td>
+    <td>yyyy/mm/dd</td>
   </tr>
   <tr>
     <td>5. I/O Implementation</td>
-    <td>dd/mm/yyyy</td>
-    <td>dd/mm/yyyy</td>
+    <td>yyyy/mm/dd</td>
+    <td>yyyy/mm/dd</td>
   </tr>
   <tr>
     <td>6. Storage and Metadata Implementation</td>
-    <td>dd/mm/yyyy</td>
-    <td>dd/mm/yyyy</td>
+    <td>yyyy/mm/dd</td>
+    <td>yyyy/mm/dd</td>
   </tr>
   <tr>
     <td>7. Functionality Testing</td>
-    <td>dd/mm/yyyy</td>
-    <td>dd/mm/yyyy</td>
+    <td>yyyy/mm/dd</td>
+    <td>yyyy/mm/dd</td>
   </tr>
   <tr>
     <td>8. Environmental Testing</td>
-    <td>dd/mm/yyyy</td>
-    <td>dd/mm/yyyy</td>
+    <td>yyyy/mm/dd</td>
+    <td>yyyy/mm/dd</td>
   </tr>
   <tr>
     <td>9. Final Physical Device Design</td>
-    <td>dd/mm/yyyy</td>
-    <td>dd/mm/yyyy</td>
+    <td>yyyy/mm/dd</td>
+    <td>yyyy/mm/dd</td>
   </tr>
 </table>
