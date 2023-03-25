@@ -60,7 +60,7 @@
 <ul>
   <b>Description</b>: Using data collected from the environmental testing milestone, design and build the device according to final specifications.
   <br/>
-  <b>Deliverable(s)</b>: A finished product that can be used in caving scenarios. 
+  <b>Deliverable(s)</b>: A finished product that can be used in cave-surveying scenarios. 
 </ul>
 
 # Milestone Timeline
