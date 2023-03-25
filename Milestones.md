@@ -82,37 +82,37 @@
   </tr>
   <tr>
     <td>3. Sensor API Implementation</td>
-    <td>yyyy/mm/dd</td>
-    <td>yyyy/mm/dd</td>
+    <td>2022/10/24</td>
+    <td>2022/11/14</td>
   </tr>
   <tr>
     <td>4. Measurement/Calibration Implementation</td>
-    <td>yyyy/mm/dd</td>
-    <td>yyyy/mm/dd</td>
+    <td>2022/11/14</td>
+    <td>2022/11/28</td>
   </tr>
   <tr>
     <td>5. I/O Implementation</td>
-    <td>yyyy/mm/dd</td>
-    <td>yyyy/mm/dd</td>
+    <td>2022/11/28</td>
+    <td>2022/12/09</td>
   </tr>
   <tr>
     <td>6. Storage and Metadata Implementation</td>
-    <td>yyyy/mm/dd</td>
-    <td>yyyy/mm/dd</td>
+    <td>2023/01/16</td>
+    <td>2023/01/30</td>
   </tr>
   <tr>
     <td>7. Functionality Testing</td>
-    <td>yyyy/mm/dd</td>
-    <td>yyyy/mm/dd</td>
+    <td>2023/01/30</td>
+    <td>2023/02/20</td>
   </tr>
   <tr>
     <td>8. Environmental Testing</td>
-    <td>yyyy/mm/dd</td>
-    <td>yyyy/mm/dd</td>
+    <td>2023/02/20</td>
+    <td>2023/03/06</td>
   </tr>
   <tr>
     <td>9. Final Physical Device Design</td>
-    <td>yyyy/mm/dd</td>
-    <td>yyyy/mm/dd</td>
+    <td>2023/03/06</td>
+    <td>2023/03/21</td>
   </tr>
 </table>
