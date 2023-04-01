@@ -194,6 +194,13 @@ reasonable, but finishing the final physical design could be dificult if certain
 * [Slide Deck]()
 
 ## Self Assessment Essay
+During these first few months of working on the project, I have mainly focused on deciding on and ordering all the necessary physical components, as well as working on the Sensor API implementation for communicating with the sensors. Due to unforeseen issues with global electronic shortages, I had to push physical prototyping further out and began working on a mock-up API so that I could remain on schedule with my milestones. While I did not have the actual sensors to test with, the online manuals allowed for me to create the framework for the API that would only require some minimal change and testing once the components came in. 
+
+The other major aspect of this project that I worked on was creating the measurement and calibration implementation. While this is still based on the mock-up API for some sensors that had yet to arrive, I was able to implement the majority of the methods functionality, and will be testing this implementation once the physical components can be assembled. As for the calibration, I have been reading the documentation for the sensors and have been creating a calibration system that will attempt to calibrate all the sensors in parallel using a common set of measurement points.
+
+As for the next semester, my main goal is to finish prototyping the device once the sensors and accessories arrive, and begin briefly testing the implementation of all functions that relied on the mock-up. Once I can ensure that this work has been completed, I will be focusing on the I/O implementation and data storage. Once these final major features are complete, I will be completely focusing on extensive testing of both the software and physical design, and working towards a final physical device design.
+
+Overall, I am fairly satisfied with how I have continued to make progress on this project despite supply chain issues. While not an ideal situation, I believe that I have been able to still meet the milestones I initially setup for this project, and will continue to make good progress towards completion. I believe the most time-consuming portion of this project will be the testing of features and building the final design, which could easily grow into larger milestones than initially expected. However, I still believe that the remaining milestones are reasonable and this project will be completed by the expected deadline.
 
 ## Professional Biography
 
