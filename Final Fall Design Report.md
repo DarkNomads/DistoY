@@ -149,6 +149,7 @@ dropped from heights, exposed to lots of dust, cold temperatures, and wetness or
 </table>
 
 ## Project Slideshow Presentation
+* [Link Text]()
 
 ## Self Assessment Essay
 
@@ -186,5 +187,29 @@ hardware to withstand the harsh conditions of caving, such as being: sturdy, wat
 
 ## Budget
 
+<table>
+  <tr>
+    <th>Item(s)</th>
+    <th>Allocated Funds</th>
+  </tr>
+  <tr>
+    <td>Sensors</td>
+    <td>$250</td>
+  </tr>
+  <tr>
+    <td>Microcontroller</td>
+    <td>$100</td>
+  </tr>
+  <tr>
+    <td>Additional/Accessories</td>
+    <td>$150</td>
+  </tr>
+  <tr>
+    <td><b>Total</b></td>
+    <td><b>$500</b></td>
+  </tr>
+</table>
+
 ## Appendix
+* [Constraints Essay](https://github.com/DarkNomads/DistoY/blob/d609189bcb37159efa3de04caf9547e749fab952/Constraint%20Essay.md)
 
