@@ -194,3 +194,5 @@ One aspect of being a team of one that did not go as well as I wanted was the bu
 </table>
 
  ## Appendix
+ * [LRF60M-10PH Sensor Documentation](https://github.com/DarkNomads/DistoY/blob/7e34fea71461653f07cd023b3e609e29f35a7c9d/misc/LRF100M10PH-datasheet.pdf)
+ * [HWT905-TTL Sensor Documentation](https://github.com/DarkNomads/DistoY/blob/7e34fea71461653f07cd023b3e609e29f35a7c9d/misc/WIT%20Standard%20Communication%20Protocol.pdf)
