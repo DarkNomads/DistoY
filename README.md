@@ -30,7 +30,8 @@ dropped from heights, exposed to lots of dust, cold temperatures, and wetness or
 * [Milestones & Timeline](https://github.com/DarkNomads/DistoY/blob/b6f97907a970fca5fb77c33f4b0cf4bf1b116473/assignments/project_details/Milestones.md)
 
 ### Appendix
-* None
+* [LRF60M-10PH Sensor Documentation](https://github.com/DarkNomads/DistoY/blob/7e34fea71461653f07cd023b3e609e29f35a7c9d/misc/LRF100M10PH-datasheet.pdf)
+ * [HWT905-TTL Sensor Documentation](https://github.com/DarkNomads/DistoY/blob/7e34fea71461653f07cd023b3e609e29f35a7c9d/misc/WIT%20Standard%20Communication%20Protocol.pdf)
 
 
 
