@@ -2,7 +2,6 @@
 
 ## Hours Breakdown Table
 <table>
-  
   <tr>
     <th>Milestone</th>
     <th>Fall Term</th>
@@ -51,7 +50,8 @@
     <td>15</td>
     <td>45</td>
   </tr>
-  
 </table>
+
+<table><tr><th>Total Hours: </th></tr></table>
 
 ## Justification of Hours
