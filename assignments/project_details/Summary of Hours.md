@@ -76,5 +76,13 @@ to be well designed. This milestone also involved looking at some useful code li
 mathematics.
 
 ### Milestone 2 - Device Simulation (Sensors)
+This was the most time-consuming milestone of the entire project, as it involved not only writing a large amount of code, but because it involved translating
+documentation into an accurate code simulation. I first starting by implementing the HWT905-TTL inclinometer and magnetometer, which involved countless hours
+of reading the documentation, learning about interprogram communication over a file system, and general debugging. This was by far the largest portion of the
+software, and was written entirely in C/C++, which contributed to the large number of hours. Next, I moved onto implementing the LRF60M-10PH laser range finder,
+which was much smaller than the HWT905-TTL, but still took a considerable amount of time. Most of the issues with interprogram communication and general struggles
+with C/C++ had been resolved after writing the first simulation, however, having to read a new set of documentation and maintaining structure between both
+sensors contributed to a milestone that totaled to just about 50 hours of total work, and many sleepless nights.
 
+### Milestone 3 - Sensor API - 
 
