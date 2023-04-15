@@ -33,6 +33,7 @@ If you have either a Mac or Linux machine, you can skip to the next section.
 ![image](https://user-images.githubusercontent.com/33441174/232184334-8a84ce0d-f9ef-411f-944a-eaf1236e1194.png)
 
 ## 3. Additional Dependencies
+This projects relies on NumPy for the device controller, as this is able to handle the vector math needed to calculate heading. Because of this, please ensure that your Ubuntu/Linux Environment has a compatible version of NumPy with Python3. Here is the guide for installing [NumPy](https://numpy.org/install/).
 
 ## 4. Running the Simulated Sensors
 
@@ -100,6 +101,6 @@ You should then be shown your file's data, I've provided my as an example:
 
 **Note: You must run a separate terminal instance for the device controller.**
   
-### 6. FAQ
+## 6. FAQ
 
 
