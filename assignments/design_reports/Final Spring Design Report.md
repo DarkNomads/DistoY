@@ -7,9 +7,7 @@
 4. [User Manual](#user-manual)
 5. [Spring Final PPT Presentation](#spring-final-ppt-presentation)
 6. [Final Expo Poster](#final-expo-poster)
-7. [Assessments](#assessments)
-     1. [Initial Self Assessment](#initial-self-assessment)
-     2. [Final Self Assessment](#final-self-assessment)
+7. [Self Assessments](#self-assessments)
 8. [Summary of Hours and Justification](#summary-of-hours-and-justification)
 9. [Summary of Expenses](#summary-of-expenses)
 10. [Appendix](#appendix)
@@ -64,7 +62,7 @@ create a final physical design for this device.
 
 ![image](https://user-images.githubusercontent.com/33441174/232244701-000df559-5d16-4fd4-8b22-728792aba8f7.png)
 
-## Assessments
+## Self Assessments
 
 ### Initial Self Assesment
 During these first few months of working on the project, I have mainly focused on deciding on and ordering all the necessary physical components, as well as working on the Sensor API implementation for communicating with the sensors. Due to unforeseen issues with global electronic shortages, I had to push physical prototyping further out and began working on a mock-up API so that I could remain on schedule with my milestones. While I did not have the actual sensors to test with, the online manuals allowed for me to create the framework for the API that would only require some minimal change and testing once the components came in. 
