@@ -54,7 +54,7 @@
     <td><strong>Totals</strong></td>
     <td><strong>80</strong></td>
     <td><strong>90</strong></td>
-    <td>170</td>
+    <td><strong>170</strong><</td>
   </tr>
 </table>
 
