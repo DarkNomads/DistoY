@@ -1,18 +1,18 @@
 # Final Spring Report
 
 ## Table of Contents
-1. [Project Description]()
-2. [User Interface Specification]()
+1. [Project Description](#project-description)
+2. [User Interface Specification](#user-interface-specification)
 3. [Test Plan & Results]()
-4. [User Manual]()
-5. [Spring Final PPT Presentation]()
-6. [Final Expo Poster]()
-7. [Assessments]()
+4. [User Manual](#user-manual)
+5. [Spring Final PPT Presentation](#spring-final-ppt-presentation)
+6. [Final Expo Poster](#final-expo-poster)
+7. [Assessments](#assessments)
      1. [Initial Self-Assessment]()
      2. [Final Self-Assessment]()
 8. [Summary of Hours & Justification]()
-9. [Summary of Expenses]()
-10. [Appendix]()
+9. [Summary of Expenses](#summary-of-expenses)
+10. [Appendix](#appendix)
 
 ## Project Description
 
