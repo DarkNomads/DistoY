@@ -56,7 +56,10 @@ to be cave-ready and feature-rich so that it will have real application in the s
   * [D1](https://github.com/DarkNomads/DistoY/blob/76ab971688b6ed0b7e496e9f45d501d66ebb171e/assignments/design_diagrams/D1.png)
   * [D2](https://github.com/DarkNomads/DistoY/blob/76ab971688b6ed0b7e496e9f45d501d66ebb171e/assignments/design_diagrams/D2.png)
 
-## User Manual
+## [User Manual](https://github.com/DarkNomads/DistoY/blob/4715c6811a2e86eff5b3ce60ed9f859456f1e42a/user_docs/user_manual.md)
+
+### [FAQ](https://github.com/DarkNomads/DistoY/blob/4715c6811a2e86eff5b3ce60ed9f859456f1e42a/user_docs/user_manual.md#6-faq)
+
 
 ## Test Plan and Results
 
