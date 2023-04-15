@@ -19,7 +19,7 @@ dropped from heights, exposed to lots of dust, cold temperatures, and wetness or
 * [Project Budget](https://github.com/DarkNomads/DistoY/blob/b6f97907a970fca5fb77c33f4b0cf4bf1b116473/assignments/project_details/Project%20Budget.md)
 
 ### Design Information
-* [User Stories (https://github.com/DarkNomads/DistoY/blob/b6f97907a970fca5fb77c33f4b0cf4bf1b116473/assignments/project_details/User%20Stories.md)
+* [User Stories](https://github.com/DarkNomads/DistoY/blob/b6f97907a970fca5fb77c33f4b0cf4bf1b116473/assignments/project_details/User%20Stories.md)
 * [Design Diagram - Key](https://github.com/DarkNomads/DistoY/blob/b6f97907a970fca5fb77c33f4b0cf4bf1b116473/assignments/design_diagrams/Diagram_Key.png)
 * [Design Diagram - D0](https://github.com/DarkNomads/DistoY/blob/b6f97907a970fca5fb77c33f4b0cf4bf1b116473/assignments/design_diagrams/D0.png)
 * [Design Diagram - D1](https://github.com/DarkNomads/DistoY/blob/b6f97907a970fca5fb77c33f4b0cf4bf1b116473/assignments/design_diagrams/D1.png)
