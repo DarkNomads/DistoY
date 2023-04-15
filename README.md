@@ -88,7 +88,7 @@ to be cave-ready and feature-rich so that it will have real application in the s
 
 ## Design Reports
 * [Fall Design Report](https://github.com/DarkNomads/DistoY/blob/76ab971688b6ed0b7e496e9f45d501d66ebb171e/assignments/design_reports/Final%20Fall%20Design%20Report.md)
-* [Spring Design Report](https://github.com/DarkNomads/DistoY/blob/76ab971688b6ed0b7e496e9f45d501d66ebb171e/assignments/design_reports/Final%20Spring%20Design%20Report.md)
+* [Spring Design Report](https://github.com/DarkNomads/DistoY/blob/c04300a293ec6154807415bf6824ab465c76352e/assignments/design_reports/Final%20Spring%20Design%20Report.md)
 
 ## Appendix
 * [LRF60M-10PH Sensor Documentation](https://github.com/DarkNomads/DistoY/blob/7e34fea71461653f07cd023b3e609e29f35a7c9d/misc/LRF100M10PH-datasheet.pdf)
