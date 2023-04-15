@@ -102,5 +102,14 @@ You should then be shown your file's data, I've provided my as an example:
 **Note: You must run a separate terminal instance for the device controller.**
   
 ## 6. FAQ
+* Do I need to run multiple instances of the terminal for the simulations to work?
+  * <strong> Yes - each sensor and the device controller need to be run on a separate instance. </strong>
 
+* How are the sensor values generated?
+  *  <strong> As of now, all of the sensor values are randomly generated within their specified value ranges. </strong>
 
+* Can I run multiple instances of the sensor simulations?
+  *  <strong> It is not recommended to run multiple versions of the sensor simulations, since they may interfere with data reads and writes. </strong>
+
+* How can I stop the sensor simulations?
+  *  <strong> Simply navigate to the terminal running the simulation, and press Crtl+C to end the simulation. </strong>
