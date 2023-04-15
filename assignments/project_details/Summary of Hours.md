@@ -35,8 +35,8 @@
   <tr>
     <td>Milestone 5</td>
     <td>0</td>
-    <td>20</td>
-    <td>20</td>
+    <td>10</td>
+    <td>10</td>
   </tr>
   <tr>
     <td>Milestone 6</td>
@@ -46,12 +46,16 @@
   </tr>
   <tr>
     <td>Other</td>
-    <td>30</td>
     <td>15</td>
-    <td>45</td>
+    <td>15</td>
+    <td>30</td>
+  </tr>
+  <tr>
+    <td><strong>Totals</strong></td>
+    <td><strong>80</strong></td>
+    <td><strong>90</strong></td>
+    <td>170</td>
   </tr>
 </table>
-
-<table><tr><th>Total Hours: 195</th></tr></table>
 
 ## Justification of Hours
