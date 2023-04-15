@@ -191,7 +191,7 @@ reasonable, but finishing the final physical design could be dificult if certain
 
 ## Project Slideshow Presentation
 * [Presentation]()
-* [Slide Deck]()
+* [Slide Deck](https://github.com/DarkNomads/DistoY/blob/6be9b85c8c4c98b9c592f056fa8a2958088e59f5/assignments/presentations/DistoY%20Presentation%20-%20Fall%202022.pdf)
 
 ## Self Assessment Essay
 During these first few months of working on the project, I have mainly focused on deciding on and ordering all the necessary physical components, as well as working on the Sensor API implementation for communicating with the sensors. Due to unforeseen issues with global electronic shortages, I had to push physical prototyping further out and began working on a mock-up API so that I could remain on schedule with my milestones. While I did not have the actual sensors to test with, the online manuals allowed for me to create the framework for the API that would only require some minimal change and testing once the components came in. 
