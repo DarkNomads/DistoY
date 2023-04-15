@@ -52,6 +52,6 @@
   </tr>
 </table>
 
-<table><tr><th>Total Hours: </th></tr></table>
+<table><tr><th>Total Hours: 195</th></tr></table>
 
 ## Justification of Hours
