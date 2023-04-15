@@ -71,7 +71,6 @@ def main():
                 continue
             # Convert to JSON
             json = convertToJSON( datapoint )
-            print( json )
             # Update the new last ID value.
             clearData( LAST_ID_FILE )
             writeData( LAST_ID_FILE, str( datapoint[0] ) )
