@@ -1,4 +1,4 @@
-# DistoY - Paperless Cave Surveying Device
+# DistoY
 
 ## Navigation Table
 1. [About Us](#about-us)
