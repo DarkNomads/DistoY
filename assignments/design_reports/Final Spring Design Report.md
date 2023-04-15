@@ -178,7 +178,7 @@ One aspect of being a team of one that did not go as well as I wanted was the bu
   <tr>
     <td>Sensors</td>
     <td>$250</td>
-  </tr>
+  </tr
   <tr>
     <td>Microcontroller</td>
     <td>$100</td>
@@ -191,6 +191,6 @@ One aspect of being a team of one that did not go as well as I wanted was the bu
     <td><b>Total</b></td>
     <td><b>$500</b></td>
   </tr>
-</table
+</table>
 
-## Appendix
+ ## Appendix
