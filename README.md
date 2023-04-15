@@ -44,7 +44,7 @@ to be cave-ready and feature-rich so that it will have real application in the s
 
 ### [Milestones and Timeline](https://github.com/DarkNomads/DistoY/blob/76ab971688b6ed0b7e496e9f45d501d66ebb171e/assignments/project_details/Milestones.md)
 
-### [Summary of Hours](https://github.com/DarkNomads/DistoY/blob/1e2b9a740e85ddb70df2c792ad8a6a1321427a06/assignments/project_details/Summary%20of%20Hours.md)
+### [Summary of Hours](https://github.com/DarkNomads/DistoY/blob/872aacd3ec2161e1f84dc1eb1d539dca9ab71c36/assignments/project_details/Summary%20of%20Hours.md)
 
 ### [Budget and Expenses](https://github.com/DarkNomads/DistoY/blob/867013c8fbe97be6f60c77dfcf5a4ddcef271e82/assignments/project_details/Project%20Budget.md)
 
