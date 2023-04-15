@@ -10,18 +10,19 @@
 7. [Presentations](#presentations)
 8. [Expo Poster](#expo-poster)
 9. [Design Reports](#design-reports)
-10. [Appendix](#appendix)
+11. [Appendix](#appendix)
 
 ## About Us
 ### Team Members
 * Isaac Kirsch - kirschic@mail.uc.edu
     * [Professional Biography](https://github.com/DarkNomads/DistoY/blob/76ab971688b6ed0b7e496e9f45d501d66ebb171e/assignments/professional_bio/Professional%20Biography.md)
+    * [Capstone Assignment](https://github.com/DarkNomads/DistoY/blob/867013c8fbe97be6f60c77dfcf5a4ddcef271e82/assignments/capstone_assignment/Capstone_Assignment_IsaacKirsch.pdf)
 
 ### Faculty Advisor
 * Dr. Fred Annexstein - annexsfs@ucmail.uc.edu
 
 ## Project Information
-### Project Abstract
+### Abstract
 DistoY is a cave surveying device aimed at providing cavers with a larger variety of functionality for surveying at a much lower cost
 than current products on the market. The DistoY will allow for taking distance measurements that can also record angles, track cardinal
 direction, and store data for later use. Furthermore, it will also be built to survive in the harsh conditions of caves, such as being
@@ -37,11 +38,13 @@ also includes the development of a physical design that is able to limit the har
 such as being dropped from heights, exposure to large amounts of dust, cold temperatures, and wet environments. The goal is for this device
 to be cave-ready and feature-rich so that it will have real application in the surveying of both new and existing caves.
 
-### [Project Constraints](https://github.com/DarkNomads/DistoY/blob/76ab971688b6ed0b7e496e9f45d501d66ebb171e/assignments/project_details/Constraint%20Essay.md)
+### [Constraints](https://github.com/DarkNomads/DistoY/blob/76ab971688b6ed0b7e496e9f45d501d66ebb171e/assignments/project_details/Constraint%20Essay.md)
 
 ### [Task List](https://github.com/DarkNomads/DistoY/blob/76ab971688b6ed0b7e496e9f45d501d66ebb171e/assignments/project_details/Task%20List.md)
 
 ### [Milestones and Timeline](https://github.com/DarkNomads/DistoY/blob/76ab971688b6ed0b7e496e9f45d501d66ebb171e/assignments/project_details/Milestones.md)
+
+### [Budget and Expenses](https://github.com/DarkNomads/DistoY/blob/867013c8fbe97be6f60c77dfcf5a4ddcef271e82/assignments/project_details/Project%20Budget.md)
 
 ## Design Information
 
@@ -56,6 +59,10 @@ to be cave-ready and feature-rich so that it will have real application in the s
 ## User Manual
 
 ## Test Plan and Results
+
+### [Test Plan](https://github.com/DarkNomads/DistoY/blob/867013c8fbe97be6f60c77dfcf5a4ddcef271e82/assignments/testing/Test_Plan.pdf)
+
+### [Test Results]()
 
 ## Assessments
 * [Initial Self Assessment](https://github.com/DarkNomads/DistoY/blob/76ab971688b6ed0b7e496e9f45d501d66ebb171e/assignments/self_assessments/Self_Assessment_IsaacKirsch.pdf)
