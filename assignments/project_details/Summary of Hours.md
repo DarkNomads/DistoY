@@ -105,5 +105,13 @@ also enabled to ability to begin testing most of the functionality of the projec
 this milestone seems small, it contributed a huge amount towards the results of the project.
 
 ### Milestone 6 - Data Storage
+This final milestone involved just taking the raw output of the device, and allowing the user to save it to a .txt file on an SD card. The majority of the
+time accounted for in this milestone involved learning about file manipulation and appending, since I did not want the device to slow down when writing to
+the SD card as the data points grew. Therefore, this involved a large amount trying new solutions, and scrapping old inefficient ones as I continued improving
+this process.
 
+### Spring Other Hours
+Most of these other hours for the spring involve completing the various capstone assignments, as well as re-designing and improving the navigation
+of the code repository. The largest single item that contributed towards these hours was the Expo poster, as well as preparing for the Expo itself. Since
+I am fairly inexperienced at poster design, roughly 6 hours were spent just creating and refining the final poster design.
 
