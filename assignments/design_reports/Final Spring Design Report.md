@@ -3,14 +3,14 @@
 ## Table of Contents
 1. [Project Description](#project-description)
 2. [User Interface Specification](#user-interface-specification)
-3. [Test Plan and Results](test-plan-and-results)
+3. [Test Plan and Results](#test-plan-and-results)
 4. [User Manual](#user-manual)
 5. [Spring Final PPT Presentation](#spring-final-ppt-presentation)
 6. [Final Expo Poster](#final-expo-poster)
 7. [Assessments](#assessments)
-     1. [Initial Self Assessment](initial-self-assessment)
-     2. [Final Self Assessment](final-self-assessment)
-8. [Summary of Hours and Justification](summary-of-hours-and-justification)
+     1. [Initial Self Assessment](#initial-self-assessment)
+     2. [Final Self Assessment](#final-self-assessment)
+8. [Summary of Hours and Justification](#summary-of-hours-and-justification)
 9. [Summary of Expenses](#summary-of-expenses)
 10. [Appendix](#appendix)
 
