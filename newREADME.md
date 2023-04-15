@@ -60,6 +60,7 @@ to be cave-ready and feature-rich so that it will have real application in the s
 
 ### [FAQ](https://github.com/DarkNomads/DistoY/blob/4715c6811a2e86eff5b3ce60ed9f859456f1e42a/user_docs/user_manual.md#6-faq)
 
+### [User Interface Specification](https://github.com/DarkNomads/DistoY/blob/f44535230eab881aeee83c68fc8b8f6de933faf6/user_docs/User%20Interface%20Specification.md)
 
 ## Test Plan and Results
 
