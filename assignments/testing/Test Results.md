@@ -1,4 +1,4 @@
-# Results
+# Test Results
 ## Sensor API (SA) Tests
 * Laser Range Finder (SA1) - <strong> Passed </strong>
   1. Started up the LRF60M-10PH simulation.
@@ -54,4 +54,4 @@
   5. Observed an appropriate response in the device controller terminal.
 
 ## Physical Device (PD) Tests
-* These tests were deprecated, as the physical was not finished.
+* These tests were deprecated, as the physical device was not finished.
