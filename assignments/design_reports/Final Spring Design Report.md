@@ -3,14 +3,14 @@
 ## Table of Contents
 1. [Project Description](#project-description)
 2. [User Interface Specification](#user-interface-specification)
-3. [Test Plan & Results]()
+3. [Test Plan and Results](test-plan-and-results)
 4. [User Manual](#user-manual)
 5. [Spring Final PPT Presentation](#spring-final-ppt-presentation)
 6. [Final Expo Poster](#final-expo-poster)
 7. [Assessments](#assessments)
-     1. [Initial Self-Assessment]()
-     2. [Final Self-Assessment]()
-8. [Summary of Hours & Justification]()
+     1. [Initial Self Assessment](initial-self-assessment)
+     2. [Final Self Assessment](final-self-assessment)
+8. [Summary of Hours and Justification](summary-of-hours-and-justification)
 9. [Summary of Expenses](#summary-of-expenses)
 10. [Appendix](#appendix)
 
@@ -33,7 +33,7 @@ create a final physical design for this device.
 
 ## User Interface Specification
 
-## Test Plan & Results
+## Test Plan and Results
 
 ## User Manual
 
@@ -66,7 +66,7 @@ create a final physical design for this device.
 
 ## Assessments
 
-### Initial Self-Assesment
+### Initial Self Assesment
 During these first few months of working on the project, I have mainly focused on deciding on and ordering all the necessary physical components, as well as working on the Sensor API implementation for communicating with the sensors. Due to unforeseen issues with global electronic shortages, I had to push physical prototyping further out and began working on a mock-up API so that I could remain on schedule with my milestones. While I did not have the actual sensors to test with, the online manuals allowed for me to create the framework for the API that would only require some minimal change and testing once the components came in. 
 
 The other major aspect of this project that I worked on was creating the measurement and calibration implementation. While this is still based on the mock-up API for some sensors that had yet to arrive, I was able to implement the majority of the methods functionality, and will be testing this implementation once the physical components can be assembled. As for the calibration, I have been reading the documentation for the sensors and have been creating a calibration system that will attempt to calibrate all the sensors in parallel using a common set of measurement points.
@@ -75,7 +75,7 @@ As for the next semester, my main goal is to finish prototyping the device once 
 
 Overall, I am fairly satisfied with how I have continued to make progress on this project despite supply chain issues. While not an ideal situation, I believe that I have been able to still meet the milestones I initially setup for this project, and will continue to make good progress towards completion. I believe the most time-consuming portion of this project will be the testing of features and building the final design, which could easily grow into larger milestones than initially expected. However, I still believe that the remaining milestones are reasonable and this project will be completed by the expected deadline.
 
-### Final Self-Assesment
+### Final Self Assesment
 Overall, I am very satisfied with the work I was able to achieve over the course of this project, despite the many challenges that emerged along the way. One of the largest skills I was able to build upon was perseverance when faced with unknown issues, and learning how to restructure a project so that I was still able to accomplish many of the goals I set out to complete. With the delay of major components needed to build the physical prototype, I decided that it would make more sense to begin working on a simulation that emulated the sensors. This was challenging, since it required thorough reading of the documentation for a product that I did not design, and it had to be done correctly since I didn’t have the means of testing it directly. This taught me the importance of good documentation, as well as the importance of selecting technologies that are well documented when designing a project that uses said technologies.
 
 I believe that this restructuring was successful, as it allowed me to implement and develop most of the software functionality that I originally had included in my milestones. Furthermore, I was able to learn about cross-application interactions, which was not my original expectation. As for other obstacles along the way, building the simulation programs took far longer than I originally expected, which really delayed my original deadlines. The environment in which the programs needed to run in turned out to be very complicated, and I had to learn more about file systems and access permissions on a modern day operating system.
@@ -84,7 +84,7 @@ While my project was done as a team of one, I still learned many things about wo
 
 One aspect of being a team of one that did not go as well as I wanted was the burnout that can occur when working on the same section of software from start to finish. Many times, I found that I needed to take a break from certain areas of the project so that I could mentally reset and come back to a problem with a fresh view. However, since my project’s milestones were so linear, this was not always possible. In retrospect, I think that I could have structured this project a bit more effectively, allowing for more areas to be worked on in parallel if I needed a break from a particular section.
 
-## Summary of Hours & Justification
+## Summary of Hours and Justification
 
 ## Summary of Expenses
 
