@@ -84,5 +84,26 @@ which was much smaller than the HWT905-TTL, but still took a considerable amount
 with C/C++ had been resolved after writing the first simulation, however, having to read a new set of documentation and maintaining structure between both
 sensors contributed to a milestone that totaled to just about 50 hours of total work, and many sleepless nights.
 
-### Milestone 3 - Sensor API - 
+### Milestone 3 - Sensor API
+This was the second largest milestone of the entire project, but moved considerably faster than Milestone 1. Since I had become quite adept at understanding
+the documentation for the sensors, this allowed me to develop the Sensor API fairly quickly in comparison. Furthermore, using Python allowed for some faster
+production of code, although I had become quite used to C/C++ by this point. From the size of the code, this was much smaller as I just had to make calls
+to the sensor simulations, and correctly modify the input and output files. One of the largest time sinks during this milestone came from debugging the
+issues with race conditions and incorrect code, but overall this went fairly fast.
+
+### Milestone 4 - Measurement & Calibration
+This was the third largest milestone of the entire project, but suprisingly only took a few weeks worth of work to get the entire project to begin looking
+like a success. Similar to the Sensor API, this mostly involved just writing API calls to the sensor programs. However, the largest time sink for this
+particular milestone was calculating the cardinal heading of the device. This turned out to be a fairly involved process, and led to many hours of learning
+about magnetism and various mathematical equations for projecting the magnetic field onto the acceleration field to extract the heading vector. This took longer
+than expected, but I was still able to complete this particular milestone within a resonable amount of time.
+
+### Milestone 5 - Device Simulation (I/O)
+This was the smallest milestone of the entire project, but also contributed to the polish of the finish product. This mainly involved creating an intuitive
+user interface, as well as adding some additional logging to the sensor simulations so that user could see what was happening in real-time. This milestone
+also enabled to ability to begin testing most of the functionality of the project, which I have included in the 10 hours for this milestone. Overall, while
+this milestone seems small, it contributed a huge amount towards the results of the project.
+
+### Milestone 6 - Data Storage
+
 
