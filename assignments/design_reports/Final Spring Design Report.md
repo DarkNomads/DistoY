@@ -115,7 +115,7 @@ parts together, and observing that whatever data or action happens between them 
   5. Observed an appropriate response in the device controller terminal.
 
 #### Physical Device (PD) Tests
-* These tests were deprecated, as the physical was not finished.
+* These tests were deprecated, as the physicaldevice was not finished.
 
 ## User Manual
 
